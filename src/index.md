@@ -8,7 +8,7 @@ organizaciones cumpliendo con estándares de calidad.
 innovadoras en diferentes contextos. 
  Diseña e implementa interfaces para la automatización de sistemas de hardware y desarrollo 
 del software asociado. 
-La presente asignatura aporta los conocimientos para el diseño e implementación de interfaces hombrenpmáquina y máquina-máquina para la automatización de sistemas. El desarrollo, implementación y 
+La presente asignatura aporta los conocimientos para el diseño e implementación de interfaces hombre-npmáquina y máquina-máquina para la automatización de sistemas. El desarrollo, implementación y 
 administración de software de sistemas o de aplicación que cumpla con los estándares de calidad con 
 el fin de apoyar la productividad y competitividad de las organizaciones. Para que desempeñe sus 
 actividades profesionales considerando los aspectos legales, éticos, sociales y de desarrollo sustentable 
