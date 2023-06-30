@@ -14,4 +14,4 @@ el fin de apoyar la productividad y competitividad de las organizaciones. Para q
 actividades profesionales considerando los aspectos legales, éticos, sociales y de desarrollo sustentable 
 y a la vez le permita poseer las habilidades metodológicas de investigación que fortalezcan el 
 desarrollo cultural, científico y tecnológico en el ámbito de sistemas computacionales y disciplinas 
-afines.
+afines. cualquier cosa
