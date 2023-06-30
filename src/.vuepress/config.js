@@ -1,5 +1,6 @@
 module.exports = {
-
+dest: 'docs',
+base: '/lenguajes-interfaz/',
   title: 'Lenguaje de Interfaz',
 
   description: 'Contenido Digital de la Asignatura Lenguajes de Interfaz',
